@@ -64,11 +64,11 @@ Llama 3.2 runs completely offline — no API cost — full privacy.
 ---
 ### 6. 🏥 Hospital Operations Dashboard
 **Tools:** SQL Server · Python · Power BI · Streamlit
-![Hospital Ops](streamlit_hospital_ops.png)
+![Hospital Ops](streamlit_hospital_ops.dashboard.png)
 ---
 ### 7. 🔬 Clinical Trial Dashboard
 **Tools:** SQL Server · Python · Power BI · Streamlit
-![Clinical Trial](clinical_trial.png)
+![Clinical Trial](streamlit_clinical_trial.png)
 ---
 ### 8. ⚠️ AI SAE Risk + Dropout Model
 **Tools:** Python · Scikit-learn · Streamlit
