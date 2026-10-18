@@ -19,7 +19,7 @@ Streamlit, and Ollama Llama 3.2.
 **Tools:** Python · Streamlit · Ollama Llama 3.2 (Local LLM)
 AI-powered clinical trial monitoring system with 7 pages.
 Llama 3.2 runs completely offline — no API cost — full privacy.
-![ClinicalGenAI Dashboard](screenshots/clinicalgenai_dashboard.png)
+![ClinicalGenAI Dashboard](clinicalgenai_dashboard.png)
 ![AI Risk Analysis](screenshots/clinicalgenai_risk.png)
 **Features:**
 - Live KPI dashboard: 15 subjects, 3 sites, risk scoring
