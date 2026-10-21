@@ -17,8 +17,8 @@ Streamlit, and Ollama Llama 3.2.
 **Tools:** Python · Streamlit · Ollama Llama 3.2 (Local LLM)
 AI-powered clinical trial monitoring system with 7 pages.
 Llama 3.2 runs completely offline — no API cost — full privacy.
-![ClinicalGenAI Dashboard](screenshots/clinicalgenai_dashboard.png)
-![AI Risk Analysis](screenshots/clinicalgenai_risk.png)
+![ClinicalGenAI Dashboard](clinicalgenai_dashboard.png)
+![AI Risk Analysis](clinicalgenai_risk.png)
 **Features:**
 - Live KPI dashboard: 15 subjects, 3 sites, risk scoring
 - AI-generated monitoring reports via Llama 3.2
@@ -28,8 +28,8 @@ Llama 3.2 runs completely offline — no API cost — full privacy.
 ---
 ### 2. 🗃️ Clinical LIMS SQL Server Database
 **Tools:** SQL Server 2022 · SSMS · T-SQL
-![SQL Tables](screenshots/sql_tables.png)
-![SQL Query](screenshots/sql_query_result.png)
+![SQL Tables](sql_tables.png)
+![SQL Query](sql_query_result.png)
 **Features:**
 - 6 normalized tables, 8 stored procedures
 - Computed TAT column, window functions
@@ -37,8 +37,8 @@ Llama 3.2 runs completely offline — no API cost — full privacy.
 ---
 ### 3. 📊 Power BI LIMS Quality Dashboard
 **Tools:** Power BI · DAX · SQL Server (live connection)
-![Power BI Overview](screenshots/powerbi_overview.png)
-![Levey-Jennings](screenshots/powerbi_lj.png)
+![Power BI Overview](powerbi_overview.png)
+![Levey-Jennings](powerbi_lj.png)
 **Features:**
 - 4 pages, 6 DAX measures, live SQL connection
 - Levey-Jennings QC chart with ±SD lines
@@ -46,8 +46,8 @@ Llama 3.2 runs completely offline — no API cost — full privacy.
 ---
 ### 4. 🤖 TAT Delay Predictor
 **Tools:** Python · Scikit-learn · Streamlit
-![Confusion Matrix](screenshots/python_confusion_matrix.png)
-![Streamlit App](screenshots/streamlit_tat.png)
+![Confusion Matrix](python_confusion_matrix.png)
+![Streamlit App](streamlit_tat.png)
 **Features:**
 - Random Forest + Logistic Regression
 - ROC curve, confusion matrix, feature importance
@@ -55,7 +55,7 @@ Llama 3.2 runs completely offline — no API cost — full privacy.
 ---
 ### 5. 📈 Levey-Jennings QC System
 **Tools:** Python · Matplotlib · Streamlit
-![LJ Chart](screenshots/python_lj_chart.png)
+![LJ Chart](python_lj_chart.png)
 **Features:**
 - Complete Westgard rule engine (1:3s, 1:2s, 2:2s, R:4s, 10x)
 - Automated violation detection and flagging
