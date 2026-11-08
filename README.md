@@ -233,7 +233,7 @@ Real-time hospital operations monitoring dashboard covering department performan
 
 **Tools:** SQL Server · Python · Power BI · Streamlit
 
-![Clinical Trial](streamlit_clinical_trial_dashboard.png)
+![Clinical Trial](streamlit_clinical_trial.png)
 
 Multi-site clinical trial monitoring dashboard with subject enrollment tracking, visit compliance, query aging, and site performance metrics.
 
