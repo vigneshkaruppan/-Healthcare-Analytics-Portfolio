@@ -223,7 +223,7 @@ Fully normalized Laboratory Information Management System database built from sc
 
 **Tools:** SQL Server · Python · Power BI · Streamlit
 
-![Hospital Operations](hospital_ops.png)
+![Hospital Operations](hospital_ops.dashboard.png)
 
 Real-time hospital operations monitoring dashboard covering department performance, patient flow, and operational KPIs.
 
@@ -233,7 +233,7 @@ Real-time hospital operations monitoring dashboard covering department performan
 
 **Tools:** SQL Server · Python · Power BI · Streamlit
 
-![Clinical Trial](clinical_trial.png)
+![Clinical Trial](clinical_trial_dashboard.png)
 
 Multi-site clinical trial monitoring dashboard with subject enrollment tracking, visit compliance, query aging, and site performance metrics.
 
