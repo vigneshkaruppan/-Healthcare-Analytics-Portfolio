@@ -223,7 +223,7 @@ Fully normalized Laboratory Information Management System database built from sc
 
 **Tools:** SQL Server · Python · Power BI · Streamlit
 
-![Hospital Operations](hospital_ops.dashboard.png)
+![Hospital Operations](streamlit_hospital_ops.dashboard.png)
 
 Real-time hospital operations monitoring dashboard covering department performance, patient flow, and operational KPIs.
 
