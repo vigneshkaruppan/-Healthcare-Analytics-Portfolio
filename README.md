@@ -198,7 +198,7 @@ Fully normalized Laboratory Information Management System database built from sc
 
 ![Streamlit TAT App](streamlit_tat.png)
 ![Confusion Matrix](python_confusion_matrix.png)
-![Feature Importance](python_feature_im.png)
+![Feature Importance](python_feature_importance.png)
 
 **Key Features:**
 - Random Forest + Logistic Regression classifiers
